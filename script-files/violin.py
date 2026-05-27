@@ -20,7 +20,3 @@ fig.update_xaxes(
 )
 
 fig.show() 
-# fig.write_html("/Users/javonnalleyne/code/ROAD_Trainee_Scores/operators/totality/tot_violin.html") #convert to html
-# fig_json = pio.to_json(fig) #convert to json
-# with open("tot_violin.json", "w") as f:
-#     json.dump(json.loads(fig_json), f, indent=4)
