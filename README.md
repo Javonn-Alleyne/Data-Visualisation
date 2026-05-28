@@ -48,9 +48,8 @@ Python
 Pandas
 Plotly
 
-## Data Format
-CSV columns
-Date, Score, Operator_Name, Station
+## Preiew
+Pre-generated HTML files are available [here](html-files). Download and open in any browser, no Python required.
 
 ## Setup
 Run these commands separately
@@ -61,7 +60,3 @@ pip install -r requirements.txt
 cd scrip-files
 python <name_of_file>.py
 ```
-
-## Interactive Docs
-To quickly interact with the files go here:
-[html](html-files)
